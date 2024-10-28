@@ -1,0 +1,261 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "juanperez",
+      "nombre": "Juan Pérez",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 2,
+      "username": "anagarcia",
+      "nombre": "Ana García",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 3,
+      "username": "luisrodriguez",
+      "nombre": "Luis Rodríguez",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 4,
+      "username": "martagomez",
+      "nombre": "Marta Gómez",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 5,
+      "username": "pablomartinez",
+      "nombre": "Pablo Martínez",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 6,
+      "username": "carlafernandez",
+      "nombre": "Carla Fernández",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 7,
+      "username": "josemora",
+      "nombre": "José Mora",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 8,
+      "username": "luismartinez",
+      "nombre": "Luis Martínez",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 9,
+      "username": "sarahllanos",
+      "nombre": "Sarah Llanos",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 10,
+      "username": "andreabernal",
+      "nombre": "Andrea Bernal",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 11,
+      "username": "ricardomendoza",
+      "nombre": "Ricardo Mendoza",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 12,
+      "username": "patriciatorres",
+      "nombre": "Patricia Torres",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 13,
+      "username": "danielperez",
+      "nombre": "Daniel Pérez",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 14,
+      "username": "cristianortiz",
+      "nombre": "Cristian Ortiz",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 15,
+      "username": "patriciamartinez",
+      "nombre": "Patricia Martínez",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 16,
+      "username": "alfonsomora",
+      "nombre": "Alfonso Mora",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 17,
+      "username": "aliciagonzalez",
+      "nombre": "Alicia González",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 18,
+      "username": "jesusruiz",
+      "nombre": "Jesús Ruiz",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 19,
+      "username": "martinquintero",
+      "nombre": "Martín Quintero",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 20,
+      "username": "renatagarcia",
+      "nombre": "Renata García",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 21,
+      "username": "emiliomendoza",
+      "nombre": "Emilio Mendoza",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 22,
+      "username": "silvianavarro",
+      "nombre": "Silvia Navarro",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 23,
+      "username": "victorluna",
+      "nombre": "Víctor Luna",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 24,
+      "username": "alejandromartinez",
+      "nombre": "Alejandro Martínez",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 25,
+      "username": "cristianferrer",
+      "nombre": "Cristian Ferrer",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 26,
+      "username": "nataliasalazar",
+      "nombre": "Natalia Salazar",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 27,
+      "username": "franciscocastillo",
+      "nombre": "Francisco Castillo",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 28,
+      "username": "gonzalovera",
+      "nombre": "Gonzalo Vera",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 29,
+      "username": "gabrielreyes",
+      "nombre": "Gabriel Reyes",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 30,
+      "username": "karinajimenez",
+      "nombre": "Karina Jiménez",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 31,
+      "username": "luisfernando",
+      "nombre": "Luis Fernando",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 32,
+      "username": "patriciasuarez",
+      "nombre": "Patricia Suárez",
+      "rol": "Usuario",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 33,
+      "username": "franciscoalvarez",
+      "nombre": "Francisco Álvarez",
+      "rol": "Admin",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 34,
+      "username": "carlaescalante",
+      "nombre": "Carla Escalante",
+      "rol": "Supervisor",
+      "password": "$2a$10$encryptedPassword"
+    },
+    {
+      "id": 35,
+      "username": "mariahernandez",
+      "nombre": "María Hernández",
+      "rol": "Admin",
+      "password": "$2a$10$TfA0qP4Zt0TFjRugC7aFSev25f/dFPT93gP86FUsOLpe.aQcMaFAK"
+    },
+    {
+      "id": 36,
+      "username": "santiriveros",
+      "nombre": "Santiago Riveros",
+      "rol": "Usuario",
+      "password": "$2a$10$WJbqvOC3uIAqTeUUPS0Xu.0eONs8.KfhcFd0ab.gp.7nvKPcpuSKK"
+    }
+  ],
+  "roles": [
+    "Usuario",
+    "Admin",
+    "Supervisor"
+  ]
+}
